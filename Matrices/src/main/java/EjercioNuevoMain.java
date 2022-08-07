@@ -8,4 +8,6 @@ public class EjercioNuevoMain {
 
     //No  comentar
     String respuesta = "Todo Ok";
+    
+    String desdeGithub = "desde Git hub";
 }
