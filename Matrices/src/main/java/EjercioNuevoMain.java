@@ -5,4 +5,7 @@ public class EjercioNuevoMain {
 
     //hola mundo
     String hola = "hola mundo";
+
+    //No comentar
+    String respuesta = "Todo Ok";
 }
